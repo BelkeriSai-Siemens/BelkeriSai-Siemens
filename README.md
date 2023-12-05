@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BelkeriSai-Siemens
+- 👋 Hi, I’m #Sai Prakash Belkeri
 - 👀 I’m interested in Industrial IoT & Factory Digitalization.
 - 🌱 I’m currently learning to be good Manager
 - 💞️ I’m looking to collaborate on anything Tech
